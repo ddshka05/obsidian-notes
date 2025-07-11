@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"8bb4ae4cfeb3c820","type":"file","file":"Общая информация/Учим GIT.md","x":-140,"y":-80,"width":200,"height":60,"color":"1"},
+		{"id":"e0c1ecf1fb6e834a","type":"file","file":"Общая информация/Термины для GIT.md","x":180,"y":-400,"width":400,"height":160},
+		{"id":"df7b41a8d786ffd6","type":"file","file":"Общая информация/GitHub, GitLab, GIT.md","x":-240,"y":120,"width":400,"height":168},
+		{"id":"f99ade78bdc69623","type":"text","text":"# GIT","x":-111,"y":481,"width":142,"height":50,"color":"4"},
+		{"id":"bb4246a6b737387d","type":"file","file":"Устройство Git/Файлы в Git.md","x":-2040,"y":779,"width":400,"height":400},
+		{"id":"763757a00adbce41","type":"file","file":"Устройство Git/Working directory.md","x":-1380,"y":712,"width":400,"height":127},
+		{"id":"8f4e9f7e8d39d965","type":"file","file":"Устройство Git/Staging area.md","x":-1380,"y":902,"width":400,"height":146},
+		{"id":"278bcd491b1c8b13","type":"file","file":"Устройство Git/directory .git.md","x":-1380,"y":1105,"width":400,"height":140},
+		{"id":"9e99a055dbf2a4a9","type":"file","file":"Устройство Git/Строение GIT.md","x":-680,"y":775,"width":400,"height":400},
+		{"id":"b84c91e2435a6132","type":"file","file":"Устройство Git/Файл .gitignore.md","x":-1080,"y":1513,"width":400,"height":86},
+		{"id":"2b8e9bf1c75b5b35","type":"file","file":"Устройство Git/Файл README.md","x":-242,"y":1513,"width":400,"height":86},
+		{"id":"88ee80583b312c34","type":"file","file":"Устройство Git/Hooks.md","x":-680,"y":1759,"width":400,"height":80},
+		{"id":"e2b5c627db2dfe3a","type":"file","file":"Общая информация/Git Bash или просто Bash.md","x":180,"y":775,"width":440,"height":223},
+		{"id":"e65e718ff6da3b14","type":"file","file":"Общая информация/Общая схема работы с GIT.md","x":-1000,"y":249,"width":480,"height":200},
+		{"id":"97409656f6982129","type":"file","file":"Устройство GitHub/GitHub.md","x":620,"y":172,"width":184,"height":65,"color":"4"}
+	],
+	"edges":[
+		{"id":"dbfe3997ad3bdc92","fromNode":"8bb4ae4cfeb3c820","fromSide":"top","toNode":"e0c1ecf1fb6e834a","toSide":"left"},
+		{"id":"c0205e2453bf069b","fromNode":"8bb4ae4cfeb3c820","fromSide":"bottom","toNode":"df7b41a8d786ffd6","toSide":"top"},
+		{"id":"98a74dcb08940163","fromNode":"df7b41a8d786ffd6","fromSide":"bottom","toNode":"f99ade78bdc69623","toSide":"top"},
+		{"id":"e3be3a3d08c83dc3","fromNode":"f99ade78bdc69623","fromSide":"left","toNode":"9e99a055dbf2a4a9","toSide":"top"},
+		{"id":"ab1bd939dbbf7865","fromNode":"9e99a055dbf2a4a9","fromSide":"left","toNode":"763757a00adbce41","toSide":"right"},
+		{"id":"c567c32db85dcdf8","fromNode":"9e99a055dbf2a4a9","fromSide":"left","toNode":"8f4e9f7e8d39d965","toSide":"right"},
+		{"id":"25a6cc929696f636","fromNode":"9e99a055dbf2a4a9","fromSide":"left","toNode":"278bcd491b1c8b13","toSide":"right"},
+		{"id":"22246305c291d9b9","fromNode":"763757a00adbce41","fromSide":"left","toNode":"bb4246a6b737387d","toSide":"right"},
+		{"id":"ca45fb905a0cc5d4","fromNode":"8f4e9f7e8d39d965","fromSide":"left","toNode":"bb4246a6b737387d","toSide":"right"},
+		{"id":"54bdade841d8f8cf","fromNode":"278bcd491b1c8b13","fromSide":"left","toNode":"bb4246a6b737387d","toSide":"right"},
+		{"id":"7de72fb36214d7b8","fromNode":"f99ade78bdc69623","fromSide":"left","toNode":"e65e718ff6da3b14","toSide":"right"},
+		{"id":"1c02c32132bd7498","fromNode":"9e99a055dbf2a4a9","fromSide":"bottom","toNode":"b84c91e2435a6132","toSide":"top"},
+		{"id":"bc5e1f9dfc1c73d3","fromNode":"9e99a055dbf2a4a9","fromSide":"bottom","toNode":"2b8e9bf1c75b5b35","toSide":"top"},
+		{"id":"a5f8b2d362b369a8","fromNode":"df7b41a8d786ffd6","fromSide":"right","toNode":"97409656f6982129","toSide":"left"},
+		{"id":"67318d90a5af74c7","fromNode":"f99ade78bdc69623","fromSide":"right","toNode":"e2b5c627db2dfe3a","toSide":"top"},
+		{"id":"40974f20800d2e3e","fromNode":"9e99a055dbf2a4a9","fromSide":"bottom","toNode":"88ee80583b312c34","toSide":"top"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"160e5c48bafee6f0","type":"file","file":"Экономический анализ и метрики/Лекция 5/Лекция 5. Оценка ликвидности организации.md","x":-80,"y":-60,"width":400,"height":400,"color":"1"},
+		{"id":"e174cf9463b9c29f","type":"file","file":"0. Общие экономические понятия/Ликвидность.md","x":580,"y":-10,"width":400,"height":300,"color":"2"},
+		{"id":"19be1a0cc93fea21","type":"file","file":"Экономический анализ и метрики/Лекция 5/5.1. Ликвидность баланса.md","x":1220,"y":-60,"width":400,"height":400,"color":"3"},
+		{"id":"32c61a13e84cb4e1","type":"file","file":"Экономический анализ и метрики/Лекция 5/5.1.1. Классификация активов баланса по ликвидности.md","x":1840,"y":-460,"width":400,"height":400,"color":"2"},
+		{"id":"3a4296e1fc089831","type":"file","file":"Экономический анализ и метрики/Лекция 5/5.1.2. Классификация пассивов баланса по ликвидности.md","x":1840,"y":290,"width":400,"height":400,"color":"2"},
+		{"id":"4d72e75a8682e090","type":"file","file":"Экономический анализ и метрики/Лекция 5/5.2. Коэффициенты ликвидности.md","x":330,"y":520,"width":900,"height":2080,"color":"3"}
+	],
+	"edges":[
+		{"id":"1f6e3827b0774793","fromNode":"160e5c48bafee6f0","fromSide":"right","toNode":"e174cf9463b9c29f","toSide":"left"},
+		{"id":"e62ad3f04d01e9cd","fromNode":"e174cf9463b9c29f","fromSide":"right","toNode":"19be1a0cc93fea21","toSide":"left"},
+		{"id":"2d14f4afe7d7abcb","fromNode":"e174cf9463b9c29f","fromSide":"bottom","toNode":"4d72e75a8682e090","toSide":"top"},
+		{"id":"b79732348194ca96","fromNode":"3a4296e1fc089831","fromSide":"left","toNode":"19be1a0cc93fea21","toSide":"right"},
+		{"id":"c8bee3d14897077b","fromNode":"32c61a13e84cb4e1","fromSide":"left","toNode":"19be1a0cc93fea21","toSide":"right"}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"3e5f0600e31c83a9","type":"file","file":"git commands/git init.md","x":-100,"y":-400,"width":400,"height":118},
+		{"id":"175892cb125b5c11","type":"file","file":"Сценарии/Создание локального репозитория.md","x":-100,"y":-180,"width":400,"height":340},
+		{"id":"670a6a07ceb16015","type":"file","file":"Сценарии/Восстановление файлов в рабочую директорию из коммита.md","x":920,"y":-180,"width":400,"height":225},
+		{"id":"562f7034a44dea92","type":"file","file":"git commands/git checkout.md","x":920,"y":-389,"width":400,"height":96},
+		{"id":"edef5bd09d4adef1","type":"file","file":"git commands/git add.md","x":1980,"y":-382,"width":400,"height":89},
+		{"id":"3a3a17f337d913ca","type":"file","file":"Сценарии/Добавление в коммит части изменений.md","x":1980,"y":-180,"width":400,"height":322},
+		{"id":"17af904d9a1e3db5","type":"file","file":"Сценарии/Отмена изменений в Working Directory.md","x":-100,"y":720,"width":400,"height":400},
+		{"id":"d5068603828c3677","type":"file","file":"git commands/git restore.md","x":-100,"y":500,"width":400,"height":100},
+		{"id":"fc60c6f63c048232","type":"file","file":"Сценарии/Посмотреть содержимое фалов в .git.md","x":640,"y":720,"width":400,"height":400},
+		{"id":"c0e1f39979f19d66","type":"file","file":"git commands/git cat-file.md","x":640,"y":500,"width":400,"height":97},
+		{"id":"d293083e5e538802","type":"file","file":"Сценарии/Пропуск Индекса для быстрого коммита.md","x":1460,"y":720,"width":400,"height":306},
+		{"id":"e679aa90bff40242","type":"file","file":"git commands/git commit.md","x":1460,"y":500,"width":400,"height":104},
+		{"id":"00c9845133461017","type":"file","file":"Сценарии/Создание alias.md","x":2180,"y":718,"width":400,"height":311},
+		{"id":"ab55804930cc1787","type":"file","file":"git commands/git config.md","x":2180,"y":500,"width":400,"height":104},
+		{"id":"af9490eac28c64dd","type":"file","file":"Сценарии/Сравнение версий.md","x":-100,"y":1600,"width":400,"height":376},
+		{"id":"4847fae0c8b6d4b3","type":"file","file":"git commands/git diff.md","x":-100,"y":1360,"width":400,"height":160},
+		{"id":"50ff60b37cfa2c72","type":"file","file":"Сценарии/Удаление файлов из Индекса.md","x":640,"y":1600,"width":400,"height":400},
+		{"id":"9b2c9bdc53a626b1","type":"file","file":"git commands/git restore.md","x":640,"y":1380,"width":400,"height":120},
+		{"id":"4db18ca58510248b","type":"file","file":"Сценарии/Удаление untracked-файлов.md","x":1460,"y":1600,"width":400,"height":440},
+		{"id":"23c09646357fd69d","x":1460,"y":1380,"width":400,"height":120,"type":"file","file":"git commands/git clean.md"}
+	],
+	"edges":[
+		{"id":"49bcab4cc19832fe","fromNode":"3e5f0600e31c83a9","fromSide":"bottom","toNode":"175892cb125b5c11","toSide":"top"},
+		{"id":"1f7619c5e7b43f55","fromNode":"562f7034a44dea92","fromSide":"bottom","toNode":"670a6a07ceb16015","toSide":"top"},
+		{"id":"cc6f41a53295d269","fromNode":"d5068603828c3677","fromSide":"bottom","toNode":"17af904d9a1e3db5","toSide":"top"},
+		{"id":"a4e5ada9ec2a9bf1","fromNode":"c0e1f39979f19d66","fromSide":"bottom","toNode":"fc60c6f63c048232","toSide":"top"},
+		{"id":"d73ff8fb6fec17a5","fromNode":"e679aa90bff40242","fromSide":"bottom","toNode":"d293083e5e538802","toSide":"top"},
+		{"id":"b3bf0f70c66bf5fd","fromNode":"ab55804930cc1787","fromSide":"bottom","toNode":"00c9845133461017","toSide":"top"},
+		{"id":"ffb285a685f31329","fromNode":"23c09646357fd69d","fromSide":"bottom","toNode":"4db18ca58510248b","toSide":"top"},
+		{"id":"5c6a3e5ffd28cb09","fromNode":"9b2c9bdc53a626b1","fromSide":"bottom","toNode":"50ff60b37cfa2c72","toSide":"top"},
+		{"id":"1be470ccfff212e2","fromNode":"4847fae0c8b6d4b3","fromSide":"bottom","toNode":"af9490eac28c64dd","toSide":"top"},
+		{"id":"5a64cd5ad2bd187e","fromNode":"edef5bd09d4adef1","fromSide":"bottom","toNode":"3a3a17f337d913ca","toSide":"top"}
+	]
+}

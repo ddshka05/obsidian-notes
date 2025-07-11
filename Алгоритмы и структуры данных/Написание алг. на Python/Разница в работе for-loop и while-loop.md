@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/869229/why-is-looping-over-range-in-python-faster-than-using-a-while-loop/65332737#65332737 - вот тута статья

@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "7599677d50a47845",
+    "type": "split",
+    "children": [
+      {
+        "id": "52340cfbad2d0d1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf8f11a7f97910b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Python/Работа с файлами/2. Работа с .csv файлами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Работа с .csv файлами"
+            }
+          },
+          {
+            "id": "4798fc3d86acbe89",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25ab61b16777873b",
+    "type": "split",
+    "children": [
+      {
+        "id": "69f3af5b76c9d95c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fe3f27496a0e63f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "f111d5244d4c1897",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d85e97d684c4ccc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 431.5
+  },
+  "right": {
+    "id": "c711b00e73bf8061",
+    "type": "split",
+    "children": [
+      {
+        "id": "f89ec0f1a0aaa83e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16e9a98fd6940280",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Языки программирования/Интерпретация и компиляция.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Интерпретация и компиляция"
+            }
+          },
+          {
+            "id": "5e0bd9e3f53f9cca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Языки программирования/Интерпретация и компиляция.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Интерпретация и компиляция"
+            }
+          },
+          {
+            "id": "adb414c129ae2049",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e45e32377b3726e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Языки программирования/Интерпретация и компиляция.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Интерпретация и компиляция"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "cf8f11a7f97910b7",
+  "lastOpenFiles": [
+    "file/Pasted image 20250710122303.png",
+    "4. Python/Работа с файлами/1. Потоковый ввод stdin и вывод stdout.md",
+    "4. Python/Работа с файлами/2. Работа с .csv файлами.md",
+    "0. Архитектура компьютера/1. Как работает память/Как работает стек.md",
+    "file/Pasted image 20250710105320.png",
+    "file/Pasted image 20250710105204.png",
+    "file/Pasted image 20250710103917.png",
+    "file/Pasted image 20250710103800.png",
+    "file/Pasted image 20250710102539.png",
+    "file/Pasted image 20250710102350.png",
+    "file/Pasted image 20250710101653.png",
+    "file/Pasted image 20250710095353.png",
+    "file/Pasted image 20250710095014.png",
+    "file/Pasted image 20250710093958.png",
+    "2. С/Переменные и операции/4. Стандартные потоки ввода и вывода.md",
+    "4. Python/Работа с датой и временем/1. Модуль datetime/1. Общая информация по модулю datetime/1.8. Преобразование строки в дату и время.md",
+    "4. Python/Работа с датой и временем/1. Модуль datetime/1. Общая информация по модулю datetime/1.5. Форматирование даты и времени при выводе.md",
+    "4. Python/Работа с датой и временем/1. Модуль datetime/1. Общая информация по модулю datetime/1.4. Изменение экземпляров класса date, time, datetime.md",
+    "4. Python/Работа с датой и временем/1. Модуль datetime/4. Тип данных datetime/4.6. Получить дату или время от экземпляра datetime.md",
+    "4. Python/Работа с датой и временем/1. Модуль datetime/4. Тип данных datetime/4.5. Получить атрибуты экземпляра класса datetime.md",
+    "4. Python/Работа с датой и временем/1. Модуль datetime/4. Тип данных datetime/4.4. Преобразование даты-времени в количество секунд и обратно.md",
+    "4. Python/Работа с датой и временем/1. Модуль datetime/4. Тип данных datetime/4.3. Получить текущую дату и время на своём часовом поясе или по гринвичу.md",
+    "4. Python/Работа с датой и временем/1. Модуль datetime/4. Тип данных datetime/4.2. Создание экземпляра класса datetime из date и time.md",
+    "0. Архитектура компьютера/4. Язык ассемблера/3.2. Переходы и директивы ассемблера.md",
+    "0. Архитектура компьютера/4. Язык ассемблера/3.1. Язык ассемблера.md",
+    "MVP in DS/Docker и контейнеризация приложений.md",
+    "0. Архитектура компьютера/2. Как работает процессор/Как работает процессор.md",
+    "0. Архитектура компьютера/1. Как работает память/Как работает память компьютера.md",
+    "1. Операционные системы/Как работают кодировки на компьютера.md",
+    "4. Python/Работа с датой и временем/1. Модуль datetime/5. Тип данных timedelta/5.1. Тип данных timedelta.md",
+    "4. Python/Работа с датой и временем/1. Модуль datetime/2. Тип данных date/2.1. Создание экземпляров класса date.md",
+    "6. Теория трансляции и компиляции/Этапы трансляции программы в машинный код.md",
+    "4. Python/Работа с файлами",
+    "4. Python/Иное",
+    "1. Операционные системы",
+    "2. С/Переменные и операции/3. Литералы.md",
+    "2. С/Переменные и операции/2. Объявление переменных, операция присваивания.md",
+    "2. С/Переменные и операции/1. Переменные и их базовые типы.md",
+    "2. С/База/4. Разбор структуры программы на С.md",
+    "0. Архитектура компьютера/0. Что такое компьютер и как он работает",
+    "0. Архитектура компьютера/2. Как работает процессор",
+    "0. Архитектура компьютера/1. Как работает память",
+    "2. С/Переменные и операции",
+    "2. С/База",
+    "Архитектура компьютера/1. Компьютер и его устройство",
+    "0. Архитектура компьютера/3. Системы счисления",
+    "7. Технологии программирования/2. Языки программирования/Классификация парадигм.canvas",
+    "Python/Работа с датой и временем/Без названия.canvas"
+  ]
+}

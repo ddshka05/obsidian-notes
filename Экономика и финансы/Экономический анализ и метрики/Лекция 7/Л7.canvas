@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"b77f4d1ea023631a","type":"group","x":520,"y":-1480,"width":960,"height":920,"color":"4","label":"Нормативная база по несостоятельности"},
+		{"id":"f0657cec40b3fc10","type":"file","file":"Экономический анализ и метрики/Лекция 7/Лекция 7. Оценка состоятельности организации.md","x":-220,"y":-80,"width":400,"height":400,"color":"1"},
+		{"id":"a70f2ad7b7792b68","type":"file","file":"Экономический анализ и метрики/Лекция 7/7.1. Кто признается несостоятельным.md","x":800,"y":-80,"width":400,"height":400,"color":"3"},
+		{"id":"be832e6dd4fa4ecd","type":"text","text":"Калькуляция показателей для оценки вероятности несостоятельности фирмы","x":1317,"y":40,"width":250,"height":162,"color":"4"},
+		{"id":"8bfde100d2c47f78","type":"file","file":"Экономический анализ и метрики/Лекция 7/7.2. Как определить несостоятельность компании. Нормативный подход.md","x":2040,"y":-341,"width":400,"height":400,"color":"4"},
+		{"id":"3888abf87b07fc10","type":"file","file":"Экономический анализ и метрики/Лекция 7/7.4. Виды банкротств.md","x":540,"y":-980,"width":400,"height":400},
+		{"id":"12b7ebf842dc2897","type":"file","file":"Экономический анализ и метрики/Лекция 7/7.5. Процедуры банкротства.md","x":1060,"y":-980,"width":400,"height":400},
+		{"id":"e296d662ede9ee44","type":"file","file":"Экономический анализ и метрики/Лекция 7/7.7. Ликвидационные процедуры.md","x":540,"y":-1440,"width":400,"height":400},
+		{"id":"106f0644e65fd8e8","type":"file","file":"Экономический анализ и метрики/Лекция 7/7.6. Очередность удовлетворения требований кредиторов.md","x":1060,"y":-1440,"width":400,"height":400},
+		{"id":"d1291149dc607ede","type":"text","text":"Нормативный подход и калькулирование показателей из ФЗ о несостоятельности","x":360,"y":59,"width":260,"height":123,"color":"2"},
+		{"id":"32c6765f19c43684","type":"file","file":"Экономический анализ и метрики/Лекция 7/7.3. Таблица решений по результатам оценки неудовлетворительности структуры баланса.md","x":2040,"y":182,"width":400,"height":400,"color":"4"},
+		{"id":"3b669c07800f9ecd","type":"text","text":"Экономический подход и прогнозирование банкротства фирм","x":-680,"y":67,"width":264,"height":105,"color":"2"},
+		{"id":"e78b09ad88fefd76","type":"file","file":"Экономический анализ и метрики/Лекция 7/7.8. Модель Z-счета Е. Альтмана.md","x":-1300,"y":-81,"width":400,"height":400,"color":"4"},
+		{"id":"d2a9e1b10f119fb4","type":"text","text":"В связи с высокими рисками по несвоевременному получению или вообще отсутствию средств для возврата у фирмы-контрагента, полезно прогнозировать возможную утрату платежеспособности. ","x":-955,"y":-1113,"width":407,"height":146,"color":"2"}
+	],
+	"edges":[
+		{"id":"94040dc21ef320c2","fromNode":"f0657cec40b3fc10","fromSide":"left","toNode":"3b669c07800f9ecd","toSide":"right"},
+		{"id":"7c4ec30f13314dfc","fromNode":"3b669c07800f9ecd","fromSide":"left","toNode":"e78b09ad88fefd76","toSide":"right"},
+		{"id":"d6631eae905b5773","fromNode":"f0657cec40b3fc10","fromSide":"right","toNode":"d1291149dc607ede","toSide":"left"},
+		{"id":"8f9f8ba60f24bd74","fromNode":"d1291149dc607ede","fromSide":"right","toNode":"a70f2ad7b7792b68","toSide":"left"},
+		{"id":"a3faa9732d0c6d3e","fromNode":"a70f2ad7b7792b68","fromSide":"right","toNode":"be832e6dd4fa4ecd","toSide":"left"},
+		{"id":"24c1920c1218ce12","fromNode":"be832e6dd4fa4ecd","fromSide":"right","toNode":"8bfde100d2c47f78","toSide":"left"},
+		{"id":"970b988e6fb1ee3d","fromNode":"8bfde100d2c47f78","fromSide":"bottom","toNode":"32c6765f19c43684","toSide":"top"},
+		{"id":"3c10e8462ea2082a","fromNode":"a70f2ad7b7792b68","fromSide":"top","toNode":"b77f4d1ea023631a","toSide":"bottom"},
+		{"id":"80d91b6b9c9a634f","fromNode":"3888abf87b07fc10","fromSide":"right","toNode":"12b7ebf842dc2897","toSide":"left"},
+		{"id":"3fc044bf9f87389b","fromNode":"12b7ebf842dc2897","fromSide":"top","toNode":"106f0644e65fd8e8","toSide":"bottom"},
+		{"id":"82dc76c4cedd19d9","fromNode":"106f0644e65fd8e8","fromSide":"left","toNode":"e296d662ede9ee44","toSide":"right"},
+		{"id":"176190e8c333f97e","fromNode":"b77f4d1ea023631a","fromSide":"left","toNode":"d2a9e1b10f119fb4","toSide":"right"},
+		{"id":"d2ee188dd9dad7fb","fromNode":"d2a9e1b10f119fb4","fromSide":"left","toNode":"e78b09ad88fefd76","toSide":"top"}
+	]
+}

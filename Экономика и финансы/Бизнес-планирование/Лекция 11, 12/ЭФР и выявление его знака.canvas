@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"ee71b67fedc95819","type":"text","text":"Привлечение дополнительного  ЗК","x":-180,"y":-160,"width":234,"height":89},
+		{"id":"76cab01b399c400a","type":"text","text":"Оплата %","x":-400,"y":44,"width":250,"height":60},
+		{"id":"979cf3459fb6069c","type":"text","text":"Прибыль растет быстрее, чем оплата по процентам %","x":-203,"y":220,"width":281,"height":97},
+		{"id":"5a0db46bf328e369","type":"text","text":"Масса прибыли увеличится","x":0,"y":44,"width":269,"height":60},
+		{"id":"b7576ecd1093f075","type":"text","text":"ЧП на 1 единицу СК растет ","x":-447,"y":480,"width":267,"height":60},
+		{"id":"b3fd1aec1af50eaa","type":"text","text":"ЧП на 1 д. ед. СК падает","x":40,"y":480,"width":250,"height":60},
+		{"id":"793a4bfa060c29b0","type":"text","text":"Эффект финансового рычага > 0","x":-438,"y":570,"width":250,"height":60},
+		{"id":"dd0d4c092cf91cf0","type":"text","text":"Эффект финансового рычага < 0","x":40,"y":570,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"58019c15a5ddd446","fromNode":"ee71b67fedc95819","fromSide":"bottom","toNode":"76cab01b399c400a","toSide":"top"},
+		{"id":"45a74752a1b8277b","fromNode":"ee71b67fedc95819","fromSide":"bottom","toNode":"5a0db46bf328e369","toSide":"top"},
+		{"id":"bb32af10640650a5","fromNode":"76cab01b399c400a","fromSide":"bottom","toNode":"979cf3459fb6069c","toSide":"top"},
+		{"id":"9f126ba9e99677cd","fromNode":"5a0db46bf328e369","fromSide":"bottom","toNode":"979cf3459fb6069c","toSide":"top"},
+		{"id":"368e35b40a07600e","fromNode":"979cf3459fb6069c","fromSide":"bottom","toNode":"b7576ecd1093f075","toSide":"top"},
+		{"id":"7af55a774f2ebe14","fromNode":"979cf3459fb6069c","fromSide":"bottom","toNode":"b3fd1aec1af50eaa","toSide":"top"},
+		{"id":"4a61a85b00f5067e","fromNode":"b7576ecd1093f075","fromSide":"bottom","toNode":"793a4bfa060c29b0","toSide":"top"},
+		{"id":"65cab22b46303cd9","fromNode":"b3fd1aec1af50eaa","fromSide":"bottom","toNode":"dd0d4c092cf91cf0","toSide":"top"}
+	]
+}

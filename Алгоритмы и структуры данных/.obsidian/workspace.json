@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "d43beaa48fe83b3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "16e77db4c5f066be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b37c506011210f05",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Математические замечания/0. Фреймворк для решения алгоритмических задач.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0. Фреймворк для решения алгоритмических задач"
+            }
+          },
+          {
+            "id": "b2a087eba9f4b6fa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Математические замечания/0.0 Заметки по решению задачек.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0.0 Заметки по решению задачек"
+            }
+          },
+          {
+            "id": "95fe40f04b171899",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Математические замечания/1. Табличка с допустимой временной сложностью.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "1. Табличка с допустимой временной сложностью"
+            }
+          },
+          {
+            "id": "a8d7d029ac2fb90a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Алгоритмы поиска/2. Линейный поиск.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Линейный поиск"
+            }
+          },
+          {
+            "id": "ec3c5b181ac012e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Алгоритмы поиска/3. Линейный поиск максимумов и минимумов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Линейный поиск максимумов и минимумов"
+            }
+          },
+          {
+            "id": "0b27378cad8169f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Известные алгоритмы/Алгоритм Бойера-Мура.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Алгоритм Бойера-Мура"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a54121c72858c4d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8da6e6321be579b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1943cbca9b2fbc44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "0d26dbb697e49854",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "88ec057bcb68df32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "1cb1ed245271d0c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c81c0bae313e3587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "985c462a2dd8d14e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Асимптотика алгоритма/4.4. Решение задач на нотации.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 4.4. Решение задач на нотации"
+            }
+          },
+          {
+            "id": "c2dc7b85f0685c0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Асимптотика алгоритма/4.4. Решение задач на нотации.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 4.4. Решение задач на нотации"
+            }
+          },
+          {
+            "id": "a1381f51cade11be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "6ff334174cc316aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Асимптотика алгоритма/4.4. Решение задач на нотации.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 4.4. Решение задач на нотации"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "b2a087eba9f4b6fa",
+  "lastOpenFiles": [
+    "Известные алгоритмы/Алгоритм Бойера-Мура.md",
+    "Алгоритмы оптимизации/Префиксные суммы.md",
+    "2. Алгоритмы поиска/3. Линейный поиск максимумов и минимумов.md",
+    "2. Алгоритмы поиска/2. Линейный поиск.md",
+    "0. Математические замечания/0.0 Заметки по решению задачек.md",
+    "0. Математические замечания/1. Табличка с допустимой временной сложностью.md",
+    "0. Математические замечания/5. Лексикологическое сравнение.md",
+    "Известные алгоритмы",
+    "0. Математические замечания/0. Фреймворк для решения алгоритмических задач.md",
+    "2. Алгоритмы поиска/1. Задача алгоритма поиска.md",
+    "0. Математические замечания/3. Геометрическая прогрессия.md",
+    "0. Математические замечания/2. Арифметическая прогрессия.md",
+    "Написание алг. на Python/Разница в работе for-loop и while-loop.md",
+    "0. Математические замечания/4. Скорость роста функций.md",
+    "file/Pasted image 20250424180825.png",
+    "file/Pasted image 20250529213437.png",
+    "1. Асимптотика алгоритма/5.5 Асимптотическая временная сложность.md",
+    "Написание алг. на Python/Работа функции len() в Python.md",
+    "2. Алгоритмы поиска/Бинарный поиск.md",
+    "1. Асимптотика алгоритма/5.4 Асимптотическая временная сложность.md",
+    "1. Асимптотика алгоритма/5.0 Терминология сложности алгоритмов.md",
+    "file/Pasted image 20250502132706.png",
+    "1. Асимптотика алгоритма/5.3 Асимптотическая временная сложность.md",
+    "1. Асимптотика алгоритма/4.4. Решение задач на нотации.md",
+    "1. Асимптотика алгоритма/5.1 Асимптотическая временная сложность.md",
+    "1. Асимптотика алгоритма/5.2 Асимптотическая временная сложность.md",
+    "1. Асимптотика алгоритма/4.1. Нотация О-большое.md",
+    "Написание алг. на Python",
+    "2. Алгоритмы поиска",
+    "Алгоритмы оптимизации",
+    "1. Асимптотика алгоритма/4.2. Нотация Ω-большое.md",
+    "1. Асимптотика алгоритма/4.3. Нотация Θ-большая.md",
+    "0. Математические замечания",
+    "1. Асимптотика алгоритма/3.1. Экспериментальный анализ алгоритмов.md",
+    "file/Pasted image 20250424193404.png",
+    "file/Pasted image 20250424192213.png",
+    "file/Python алгоритмы (3).png",
+    "file/Pasted image 20250424182422.png",
+    "file/Pasted image 20250424181159.png",
+    "file/Pasted image 20250424181023.png",
+    "file/Pasted image 20250424180946.png",
+    "file",
+    "1. Асимптотика алгоритма"
+  ]
+}
