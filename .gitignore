@@ -1,0 +1,11 @@
+# Obsidian internal cache
+.cache/
+thumbnails/
+.obsidian/workspace/*
+
+# Sync temp files
+sync/
+
+# OS generated files
+.DS_Store
+Thumbs.db
