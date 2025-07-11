@@ -20,16 +20,6 @@
               "icon": "lucide-file",
               "title": "2. Работа с .csv файлами"
             }
-          },
-          {
-            "id": "4798fc3d86acbe89",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
           }
         ]
       }
@@ -88,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 203.5
   },
   "right": {
     "id": "c711b00e73bf8061",
