@@ -9,3 +9,6 @@ sync/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Obsidian settings
+.obsidian/*.json
